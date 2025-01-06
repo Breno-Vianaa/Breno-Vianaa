@@ -47,11 +47,7 @@
   </a>
 </div>
 
-###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Breno-Viana/Breno-Viana/output/snake.svg" alt="Snake animation" />
 
 ###
 
