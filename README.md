@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Breno e sou um desenvolvedor Jr</p>
+<p align="left">Meu nome é Breno e sou desenvolvedor Jr</p>
 
 ###
 
