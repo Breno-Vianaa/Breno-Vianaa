@@ -1,4 +1,4 @@
-<h2 align="left">Olá 👋 seja bem vindo</h2>
+<h2 align="left">Hello word 👋, seja bem vindo</h2>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">Linguagens</h2>
+<h2 align="left">Linguagens em aprendizado</h2>
 
 ###
 
@@ -38,16 +38,18 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="www.linkedin.com/in/breno-daniel-37536225a" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
   <a href="brenodaniel58@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=brenodaniel58@gmail.com&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
   </a>
 </div>
 
 ###
+
+<br clear="both">
 
 <img src="https://raw.githubusercontent.com/Breno-Viana/Breno-Viana/output/snake.svg" alt="Snake animation" />
 
