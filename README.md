@@ -1,4 +1,4 @@
-<h1 align="left">Hello Word, veja um pouco sobre mim</h1>
+<h1 align="left">Hello World, veja um pouco sobre mim</h1>
 
 ###
 
